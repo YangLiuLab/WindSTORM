@@ -4,8 +4,7 @@
 </p>
 <p><strong>Citation:</strong></p>
 <p>
-  <strong>
-    H. Ma, J. Xu, Y. Liu,&nbsp;
+  H. Ma, J. Xu, Y. Liu,&nbsp;
     <a href="https://www.science.org/doi/10.1126/sciadv.aaw0683" target="_blank" rel="noopener">
       WindSTORM: Robust online image processing for high-throughput nanoscopy.
     </a>
