@@ -2,6 +2,7 @@
 <p>
   WindSTORM is a high-speed high-density single-molecule localization algorithm based on linear deconvolution for super-resolution microscopy (e.g., STORM and PALM).
 </p>
+The sample dataset to test the code is available: https://doi.org/10.5281/zenodo.15684173.
 <p><strong>Citation:</strong></p>
 <p>
   H. Ma, J. Xu, Y. Liu,&nbsp;
